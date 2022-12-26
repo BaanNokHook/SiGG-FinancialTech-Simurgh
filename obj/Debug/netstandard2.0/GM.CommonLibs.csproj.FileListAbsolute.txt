@@ -1,0 +1,13 @@
+C:\Users\Asus\Documents\globalmarket\src\GM.CommonLibs\bin\Debug\netstandard2.0\GM.CommonLibs.deps.json
+C:\Users\Asus\Documents\globalmarket\src\GM.CommonLibs\bin\Debug\netstandard2.0\GM.CommonLibs.dll
+C:\Users\Asus\Documents\globalmarket\src\GM.CommonLibs\bin\Debug\netstandard2.0\GM.CommonLibs.pdb
+C:\Users\Asus\Documents\globalmarket\src\GM.CommonLibs\bin\Debug\netstandard2.0\GM.Model.dll
+C:\Users\Asus\Documents\globalmarket\src\GM.CommonLibs\bin\Debug\netstandard2.0\GM.Model.pdb
+C:\Users\Asus\Documents\globalmarket\src\GM.CommonLibs\obj\Debug\netstandard2.0\GM.CommonLibs.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\globalmarket\src\GM.CommonLibs\obj\Debug\netstandard2.0\GM.CommonLibs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Documents\globalmarket\src\GM.CommonLibs\obj\Debug\netstandard2.0\GM.CommonLibs.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\globalmarket\src\GM.CommonLibs\obj\Debug\netstandard2.0\GM.CommonLibs.AssemblyInfo.cs
+C:\Users\Asus\Documents\globalmarket\src\GM.CommonLibs\obj\Debug\netstandard2.0\GM.CommonLibs.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\globalmarket\src\GM.CommonLibs\obj\Debug\netstandard2.0\GM.CommonLibs.csproj.CopyComplete
+C:\Users\Asus\Documents\globalmarket\src\GM.CommonLibs\obj\Debug\netstandard2.0\GM.CommonLibs.dll
+C:\Users\Asus\Documents\globalmarket\src\GM.CommonLibs\obj\Debug\netstandard2.0\GM.CommonLibs.pdb

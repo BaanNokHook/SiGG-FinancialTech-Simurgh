@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Common\ExcelTemplate.cs" />
+    <Compile Remove="Common\SftpUtility.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Utility\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Binder" Version="2.2.4" />
+    <PackageReference Include="NLog" Version="4.5.11" />
+    <PackageReference Include="System.Data.DataSetExtensions" Version="4.6.0-preview.18571.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GM.Model\GM.Model.csproj" />
+  </ItemGroup>
+
+</Project>
